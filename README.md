@@ -1,6 +1,6 @@
 # Tabs
 
-This is a **new paragraph** with some  **in bold** to see if **removing multiple words at once** is what triggers this bug by any chance. **Hopefully that is the case.**
+This is a **new paragraph** with some  **in bold** to see if **words at once** is what triggers this bug by any chance. **Hopefully that is the case.**
 
 {% tabs %}
 {% tab title="First Tab" %}
