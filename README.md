@@ -1,6 +1,6 @@
 # Tabs
 
-This is a  with some  **in bold** to see if **words at once** is what triggers this bug by any chance. **Hopefully  is the case.**
+This is a  with some  **in bold** to see if**ratce** is what triggers this bug by any chance. **Hopefully  is the case.**
 
 {% tabs %}
 {% tab title="First Tab" %}
