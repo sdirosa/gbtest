@@ -1,6 +1,6 @@
 # Tabs
 
-TEST   BLA.  ****  BLA
+TEsST   BLA.  ****  BLA
 
 anther test.  ****  b. la bla
 
