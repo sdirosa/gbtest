@@ -1,6 +1,6 @@
 # Tabs
 
-Here is some bold spaces in between brackets: \[      ]
+Here is it:   &#x20;
 
 
 
