@@ -1,10 +1,9 @@
-# Test new page123123123
+# Test new page
 
-123\. ****   456. !123
+Some changes
 
 Let's see what **happens** now
 
-And another paragraph with some ****  hidden bold
-
+And another paragraph with some **** hidden bold
 
 another test
