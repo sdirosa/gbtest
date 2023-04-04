@@ -2,8 +2,6 @@
 
 Some changes
 
-Let's see what **happens** now
-
-And another paragraph with some **** hidden bold
+Let's see __ what **happens** now **** test!
 
 another test
