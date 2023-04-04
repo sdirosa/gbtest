@@ -1,9 +1,6 @@
 # Tabs
 
-Some bold spaces. **** !!!!
-
-
-
+BLABLA
 
 
 <figure><img src=".gitbook/assets/this is fine.jpeg" alt=""><figcaption></figcaption></figure>
