@@ -1,11 +1,11 @@
 # Tabs
 
-TEsST   BLA.  **&#32;**  BLA
+TEsST BLA. BLA
 
-ant. her test.  **&#32;**  b. la bla
+ant. her test. b. la bla
 
-Another test. _&#32;_ Test
+Another test. Test
 
 <figure><img src=".gitbook/assets/this is fine.jpeg" alt=""><figcaption></figcaption></figure>
 
-LMAO12
+LMAO123
