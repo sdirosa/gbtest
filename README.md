@@ -1,8 +1,6 @@
 # Tabs
 
-TEsST.     BLA. BLA
-
-ant. her test. b. la bla
+Some bold     and.     italic
 
 Another test. Test
 
