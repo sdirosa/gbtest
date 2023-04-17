@@ -1,6 +1,6 @@
-# Tabs
+# Tabs 1-2-3
 
-Some bold     and.     italic
+Some bold **** and. __ italic
 
 Another test. Test
 
