@@ -8,10 +8,6 @@ Another test. Test
 
 LMAO12345
 
-| # | Descriptions  | ? |
-| - | ------------- | - |
-| 1 | Description 1 | A |
-| 2 | Description 2 | B |
-| 3 | Description 3 | C |
+<table><thead><tr><th width="72.33333333333331">#</th><th width="574">Descriptions</th><th>?</th></tr></thead><tbody><tr><td>1</td><td>Description 1</td><td>A</td></tr><tr><td>2</td><td>Description 2</td><td>B</td></tr><tr><td>3</td><td>Description 3</td><td>C</td></tr></tbody></table>
 
-test
+test test test
