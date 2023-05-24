@@ -21,3 +21,5 @@ test test test test
 [this-page-name-is-definitely-longer-than-a-hundred-characters-which-should-cause-the-import-to-truncate-it-and-cause-issues.md](this-page-name-is-definitely-longer-than-a-hundred-characters-which-should-cause-the-import-to-truncate-it-and-cause-issues.md)
 
 <figure><img src=".gitbook/assets/this-file-name-is-definitely-longer-than-a-hundred-characters-which-should-cause-the-import-to-truncate-it-and-cause-issues.md.jpeg" alt="" width="56"><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (2) (1) (1) (1).png" alt="" width="113"><figcaption></figcaption></figure>
