@@ -2,22 +2,9 @@
 description: test test
 ---
 
-# Copy of Tabs 1-2-3-4-5-6
+# Copy of Tabs 1-2-3-4-5-6-7
 
 test test Some bold \*\*\*\* and. \_\_ italic
-
-Another test. **Test**
-
-<figure><img src="../.gitbook/assets/this is fine.jpeg" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/this-is-fine_large.webp" alt=""><figcaption></figcaption></figure>
-
-LMAO123456
-
-<table><thead><tr><th width="192.6">#</th><th width="75">Descriptions</th><th>?</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/this is fine.jpeg" alt="" data-size="original"></td><td><img src="../.gitbook/assets/this is fine.jpeg" alt="" data-size="original"></td><td>A</td></tr><tr><td><img src="../.gitbook/assets/this-is-fine_large.webp" alt="" data-size="original"></td><td>Description 2</td><td>B</td></tr><tr><td>3</td><td>Description 3</td><td>C</td></tr></tbody></table>
-
-test test test test
-
 [this-page-name-is-definitely-longer-than-a-hundred-characters-which-should-cause-the-import-to-truncate-it-and-cause-issues.md](../this-page-name-is-definitely-longer-than-a-hundred-characters-which-should-cause-the-import-to-truncate-it-and-cause-issues.md)
 
 <figure><img src="../.gitbook/assets/this-file-name-is-definitely-longer-than-a-hundred-characters-which-should-cause-the-import-to-truncate-it-and-cause-issues.md.jpeg" alt=""><figcaption></figcaption></figure>
