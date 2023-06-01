@@ -1,6 +1,6 @@
 # Test new page
 
-Let's see if this works
+Let's see if this works - test!
 
 If you want to publish multiple versions of your documentation in one place, such as in different languages or different versions of your product, you can use **collection publishing**.
 
