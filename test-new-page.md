@@ -43,7 +43,7 @@ You should create a collection to hold your spaces/variants. You can see in the 
 
 <summary>Step 1: Publish the collection</summary>
 
-First we will publish the collection. Note that this **does not publish the spaces inside the collection**. You need to publish each space individually.
+First we will dgdfgdgdgdfg the collection. Note that this **does not publish the spaces inside the collection**. You need to publish each space individually.
 
 Collection publishing works almost exactly the same as [space publishing](broken-reference/). Navigate to the the **share** button near the top-right corner, which will open the share modal.
 
