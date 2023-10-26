@@ -23,6 +23,10 @@ layout:
 
 # 😃 Tabs 1-2-3
 
+{% swagger src="https://petstore.swagger.io/v2/swagger.json" path="/pet/findByStatus" method="get" %}
+[https://petstore.swagger.io/v2/swagger.json](https://petstore.swagger.io/v2/swagger.json)
+{% endswagger %}
+
 A change! And another!
 
 {% hint style="info" %}
