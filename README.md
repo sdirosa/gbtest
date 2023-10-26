@@ -23,7 +23,7 @@ layout:
 
 # 😃 Tabs 1-2-3
 
-{% swagger src="https://petstore.swagger.io/v2/swagger.json" path="/pet/findByStatus" method="get" %}
+{% swagger src="https\_//petstore.swagger.io/v2/swagger.json" path="/pet/findByStatus" method="get" expanded="true" fullWidth="true" %}
 [https://petstore.swagger.io/v2/swagger.json](https://petstore.swagger.io/v2/swagger.json)
 {% endswagger %}
 
@@ -35,7 +35,7 @@ Let's see how this hint exports to PDF....
 
 MMMMMMMMM!!!!!
 
-{% embed url="https://demo.arcade.software/vOBfQE9VInuyA1g7b4kF?embed=" fullWidth="true" %}
+{% embed url="https\_//demo.arcade.software/vOBfQE9VInuyA1g7b4kF?embed=" fullWidth="true" %}
 
 Another test. **Test** tes test test test test test test test test123 456 789 012 111 222 333 445 1122334455
 
