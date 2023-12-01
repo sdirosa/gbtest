@@ -30,13 +30,13 @@ Only creators and administrators can publish content.
 
 ## Why publish spaces in a collection?
 
-When you set the [space visibility](../broken-reference/) of a space to **in collection** and publish the collection, you can wrap a number of spaces in a single published interface. We call this **publishing variants**.
+When you set the [space visibility](broken-reference/) of a space to **in collection** and publish the collection, you can wrap a number of spaces in a single published interface. We call this **publishing variants**.
 
 When you publish a collection of variants, any child space that is published inside the collection will be quickly accessible through a dropdown in the sidebar of the published content, allowing readers to switch between variants at any time.
 
 Variants are useful if you need to offer a grouped experience for spaces, such as documenting multiple versions of an API (v1, v2, v3, etc.) or documenting your content in multiple languages.
 
-<figure><img src="../.gitbook/assets/CleanShot 2023-03-22 at 14.07.43.gif" alt=""><figcaption><p>Switching between variants in published documentation</p></figcaption></figure>
+<figure><img src=".gitbook/assets/CleanShot 2023-03-22 at 14.07.43.gif" alt=""><figcaption><p>Switching between variants in published documentation</p></figcaption></figure>
 
 Here are some examples of how GitBook users have published variants in collections:
 
@@ -55,7 +55,7 @@ We will use the example of publishing product documentation in multiple language
 
 You should create a collection to hold your spaces/variants. You can see in the screenshot below that we have a collection called My Product Docs. Inside the collection are 2 spaces: English and Spanish. As the names suggest, the English space contains our product documentation written in English, and the Spanish space contains the Spanish translation.
 
-<figure><img src="../.gitbook/assets/switching-between-variants.gif" alt="A screenshot of a GitBook collection, named My Product Docs, with two variants inside it. One is called English, the second is called Spanish."><figcaption><p>A collection with two variants</p></figcaption></figure>
+<figure><img src=".gitbook/assets/switching-between-variants.gif" alt="A screenshot of a GitBook collection, named My Product Docs, with two variants inside it. One is called English, the second is called Spanish."><figcaption><p>A collection with two variants</p></figcaption></figure>
 
 <details>
 
@@ -63,7 +63,7 @@ You should create a collection to hold your spaces/variants. You can see in the 
 
 First we will dgdfgdgdgdfg the collection. Note that this **does not publish the spaces inside the collection**. You need to publish each space individually.
 
-Collection publishing works almost exactly the same as [space publishing](../broken-reference/). Navigate to the the **share** button near the top-right corner, which will open the share modal.
+Collection publishing works almost exactly the same as [space publishing](broken-reference/). Navigate to the the **share** button near the top-right corner, which will open the share modal.
 
 Inside the share modal, you'll see some or all of the following tabs on the left-hand side to choose from. (The tabs available to you will depend on your permissions.)
 
@@ -81,7 +81,7 @@ Ensure you're on the publish to the web tab, and then toggle the publish in coll
 
 </details>
 
-<figure><img src="../.gitbook/assets/switch space.gif" alt=""><figcaption><p>Publish variants of spaces in one collection</p></figcaption></figure>
+<figure><img src=".gitbook/assets/switch space.gif" alt=""><figcaption><p>Publish variants of spaces in one collection</p></figcaption></figure>
 
 ### How to set the main space in a collection
 
@@ -89,7 +89,7 @@ The default space in a collection is the space that readers will land on when th
 
 To change the default space in a collection, navigate to the collection customization page by clicking the triple dot menu button in the top-right corner of the collection in the editor. Under General > Collection, choose the default space from the dropdown.
 
-<figure><img src="../.gitbook/assets/CleanShot 2023-03-22 at 14.07.43.gif" alt=""><figcaption><p>Change the default space in a published collection</p></figcaption></figure>
+<figure><img src=".gitbook/assets/CleanShot 2023-03-22 at 14.07.43.gif" alt=""><figcaption><p>Change the default space in a published collection</p></figcaption></figure>
 
 {% hint style="info" %}
 Did you know you can extend GitBook through integrations? GitBook's Integration Platform allows you to enhance the way you work—Including helping you with translations of the things you write.\
