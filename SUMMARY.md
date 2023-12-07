@@ -6,3 +6,4 @@
   * [Test subpage](test-new-page/test-subpage.md)
 * [Test page 2](test-page-2/README.md)
   * [Sub page of test page 2](test-page-2/sub-page-of-test-page-2.md)
+* [Table test](table-test.md)
