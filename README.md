@@ -21,7 +21,7 @@ layout:
     visible: true
 ---
 
-# 😃 Tabs 1-2-3-4
+# 😃 Tabs 1-2
 
 
 
