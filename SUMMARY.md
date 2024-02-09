@@ -1,6 +1,6 @@
 # Table of contents
 
-* [😃 Tabs 1-2-3](README.md)
+* [😃 Tabs 1-2-3-4](README.md)
 * [Test new page](test-new-page.md)
   * [Playground](https://gitbook-x-dev-surai.firebaseapp.com/o/9b4CXvA1Ilpom1yyvLW5/s/hpVbA0fwvZX6WOh1j5gP/)
 * [this-page-name-is-definitely-longer-than-a-hundred-characters-which-should-cause-the-import-to-trunc](this-page-name-is-definitely-longer-than-a-hundred-characters-which-should-cause-the-import-to-truncate-it-and-cause-issues.md)
